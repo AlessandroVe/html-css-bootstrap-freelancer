@@ -102,8 +102,14 @@ header{
 /* CONTAINER-MAIN ///  ABOUT*/
 #about{
     background-color: rgb(80, 142, 145);
-    height: 500px;
 }
 .about-title{
     text-align: center;
+    padding-bottom: 50px;
+}
+#about .icon{
+    color: white;
+}
+#about .icon-bar{
+    width: 50% ;
 }
