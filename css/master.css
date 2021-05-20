@@ -101,7 +101,9 @@ header{
 }
 /* CONTAINER-MAIN ///  ABOUT*/
 #about{
-    text-align: center;
     background-color: rgb(80, 142, 145);
     height: 500px;
+}
+.about-title{
+    text-align: center;
 }
